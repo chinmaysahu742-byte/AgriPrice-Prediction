@@ -1,0 +1,78 @@
+{
+  "common": {
+    "logout": "लॉगआउट",
+    "profile": "प्रोफ़ाइल",
+    "send": "भेजें",
+    "close": "बंद करें",
+    "clearChat": "चैट साफ़ करें",
+    "send_tooltip": "भेजें (Enter)"
+  },
+  "sidebar": {
+    "brand": "AgripredictAI",
+    "tagline": "स्मार्ट खेती",
+    "farmer": "किसान",
+    "location": "भारत",
+    "expandTooltip": "साइडबार खोलें (Alt+S)",
+    "collapseTooltip": "साइडबार बंद करें (Alt+S)",
+    "nav": {
+      "dashboard": "डैशबोर्ड",
+      "predictions": "बाज़ार पूर्वानुमान",
+      "feasibility": "व्यावहारिकता",
+      "profit": "लाभ विश्लेषण",
+      "risk": "जोखिम मूल्यांकन",
+      "recommendations": "स्मार्ट सुझाव",
+      "cropPrediction": "फसल पूर्वानुमान",
+      "climatePredictor": "जलवायु पूर्वानुमान",
+      "rotation": "फसल चक्र",
+      "iot": "IoT निगरानी",
+      "simulator": "सिम्युलेटर",
+      "alerts": "अलर्ट",
+      "dataSources": "डेटा स्रोत",
+      "cropRotation": "फसल चक्र",
+      "climatePredictor": "जलवायु फसल भविष्यवाणी"
+    }
+  },
+  "dashboard": {
+    "welcomeBack": "वापस स्वागत है",
+    "overview": "आज के लिए आपकी कृषि बुद्धिमत्ता का अवलोकन",
+    "trackedCrops": "ट्रैक की गई फसलें",
+    "activeAlerts": "सक्रिय अलर्ट",
+    "profitEstimate": "लाभ अनुमान",
+    "riskLevel": "जोखिम स्तर",
+    "inYourProfile": "आपकी प्रोफ़ाइल में",
+    "needsAttention": "ध्यान चाहिए",
+    "thisSeason": "इस सीजन",
+    "portfolioRisk": "पोर्टफोलियो जोखिम",
+    "priceTrends": "मूल्य प्रवृत्ति अवलोकन",
+    "viewDetails": "विवरण देखें",
+    "topPicks": "शीर्ष चयन",
+    "viewAll": "सभी",
+    "recentAlerts": "हाल के अलर्ट",
+    "viewAll2": "सभी देखें",
+    "quickActions": "त्वरित कार्य",
+    "checkFeasibility": "व्यावहारिकता जांचें",
+    "profitAnalysis": "लाभ विश्लेषण",
+    "runSimulation": "सिमुलेशन चलाएं",
+    "riskAssessment": "जोखिम मूल्यांकन"
+  },
+  "chat": {
+    "title": "AgriPredict AI",
+    "subtitle": "किसान सहायक",
+    "placeholder": "फसलों, कीमतों, जोखिमों के बारे में पूछें…",
+    "emptyState": "फसलों के बारे में कुछ भी पूछें!",
+    "greeting": "👋 नमस्ते! मैं आपका **AgriPredict AI सहायक** हूँ।\n\nमैं इनमें मदद कर सकता हूँ:\n• 🌾 फसल मूल्य पूर्वानुमान\n• ⚖️ फसल तुलना\n• 📍 क्षेत्र-विशिष्ट सुझाव\n• ⚠️ जोखिम और लाभप्रदता विश्लेषण\n\nउदाहरण: \"ओडिशा में चावल उगाऊं तो?\" या \"गेहूं और मक्का की तुलना\"",
+    "openAriaLabel": "AI सहायक खोलें",
+    "suggestions": {
+      "bestCrop": "इस महीने कौन सी फसल सबसे अच्छी है?",
+      "compareRiceWheat": "चावल और गेहूं की तुलना करें",
+      "checkRiskCotton": "कपास के लिए जोखिम जांचें"
+    },
+    "structuredData": {
+      "price": "कीमत",
+      "demand": "मांग",
+      "risk": "जोखिम",
+      "profitability": "लाभप्रदता",
+      "trend": "रुझान"
+    }
+  }
+}
