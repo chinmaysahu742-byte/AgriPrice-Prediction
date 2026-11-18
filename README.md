@@ -470,6 +470,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-**Made with ❤️ by Ariyan-Sitansu1115**
+**Made with ❤️ by Chinmay Sahu**
 
 *Empowering agriculture through AI innovation* 🌾🤖
